@@ -340,8 +340,8 @@ tools for specific tasks, including tag, describe, landmark, ocr, and
 thumbnail.
 
 An Azure resource is required to access this service (and to run this command).
-See the README for details of a free subscription. If you have a subscription
-then please paste the key and the endpoint here.
+[Create a new Azure account, and try Cognitive Services for free.](https://azure.microsoft.com/free/cognitive-services/)
+If you have a subscription then please paste the key and the endpoint here.
 
 Please paste your Computer Vision subscription key: ********************************
 Please paste your endpoint: https://southeastasia.api.cognitive.microsoft.com/
